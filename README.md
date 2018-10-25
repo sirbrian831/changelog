@@ -1,2 +1,2 @@
-# changelog
-Updates to the Product
+# YEN Changelog
+Product updates, powered by our amazing community!
