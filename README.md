@@ -3,6 +3,8 @@ Product updates, powered by our amazing community!
 
 The goal withour `changelog` is to capture all of the work that we've done to build YEN, starting from the very beginning. This way we have not only a record of our collective accomplishments so we can celebrate our progress but also to increase the level of transparency into the process as we build.
 
+In this way, our `changelog` is a bit different than more traditional ones because we're going to attempt to be a bit more specific with our notes (and definitely better than just a notice that reads: "*We constantly improve our application to provide better service to our users.*"...
+
 We hope that you'll see many of the changes, improvements, bug fixes, and feature updates that you'll see are the **very ones** that **YOU** suggested! We love co-building with our community as it's just a better way of building.
 
 Thank you!
@@ -51,11 +53,61 @@ Thank you!
 
 ## Sprint 3
 
-## Sprint 2
+## Sprint 2 (April 26 - May 8, 2018)
 
-## Sprint 1 (April 11-25)
+Goals of Sprint 2 were as follows:
 
-The goal of this first sprint was to identify our core architecture and establish baseline goals for MVP, including:
+- Creation / Displaying of video posts (static video file and streaming)
+- User Profile
+- Coinbase Webhook Notifications
+- Exchange Rates Widget
+- Messaging Prototype
+
+### Create / Display Video Posts
+
+- User should be able to create a post with a URL to a video site (YouTube, Vimeo) for both on-demand and livestream (YouTube-only).
+- Post should be displayed in the 2nd dynamic column on the feed.
+- To embed videoPost should be displayed in the 2nd dynamic column on feed.
+
+### User Profile
+
+Profile basic screen contains the following fields ( https://www.dropbox.com/s/j7pwdncjuwwaqt5/3-0-1-profile.png?dl=0
+ ):
+
+- Update photo (optional)  
+- Name (mandatory)
+- Last name (mandatory)
+- Full description (optional)
+- Website (optional)
+
+Validation for fields:
+
+- Photo: size limit: UYp to 5.0MB
+- Name and Last Name fields: Minimum of at least 1 symbol or character
+- Full description: Up to 100 characters
+- Website: Should contain `http:`or `https:`, text / dot / text
+- Should be implemented with a loader for images (file extensions are jpeg, gif, png, tiff, and bmp)
+
+### Coinbase Webhook Notifications
+
+- Authorized user via Coinbase oAuth
+- YEN should receive notifications about user's activity
+- Display transaction in second dynamic column
+- Save all transaction data in DB with ability to filter / sort (buy / sell)
+- Enable Buy / Sell actions via Coinbase from YEN
+
+### Exchange Rates Widget
+
+- Design a widget that shows current pricing of coins / tokens
+
+### Messaging Prototype
+
+- Complete a concept / prototype for internal messaging using off-the-shelf APIs (e.g. PubNub)
+
+
+## Sprint 1 (April 11 - 25, 2018)
+
+The goal of this first (!!!) sprint was to identify our core architecture and establish baseline goals for MVP, including:
 
 - Core Architecture 
 - Authorization + Registration 
