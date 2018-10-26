@@ -51,7 +51,63 @@ Thank you!
 
 ## Sprint 4
 
-## Sprint 3
+## Sprint 3 (May 10 - 23, 2018)
+
+Goals for Sprint 3 were as follows:
+
+- Currencies in exchange rates (refactoring)
+- Add basic auth for alpha
+- Coinbase webhook notifications (for buy/sell transactions)
+- Messaging (+invest) - realtime post refresh after creation - for current user
+- Vuex
+- Add posts manually, images
+- Buy/sell via Coinbase from Yen
+- Profile for other users (API, layout on frontend)
+
+### Currencies in Exchange Rates (refactoring)
+
+- Should look like [this](https://www.dropbox.com/s/4hdq7etkfylnatv/widget-exchange.png?dl=0).
+- Supported currencies for now: USD, EUR, GBP, CAD, CNY
+
+### Add Basic Auth for Alpha
+
+- Looks like [this](https://www.dropbox.com/s/71zrlenkm19i2uk/yen-sign-in.png?dl=0).
+
+### Coinbase Notifications
+
+- As an authorized user via Coinbase, my transaction will be visible to others and they can receive notifications about user's activity.
+- As an authorized user via Coinbase, data of my transactions will be save in YEN DB.
+- As a logged-in user, I can filter transactions by type: Buy / Sell
+- As a logged in user, I can see transactions of the authorized users via Coinbase in the 2nd column of the feed.
+- As abn authorized user, I can buy / sell via Coinbase from YEN.
+
+### Messaging
+
+- Continue prototyping
+
+### Vuex
+
+- Add Vuex library to front-end, allowing better cross-dependent utility.
+
+### Add Posts
+
+- Displaying of images in 2nd column.
+- Image (full size) should be opened after user clicks on its preview.
+- Image uploader from folder: Add custom files features with only-image extensions.
+- Backend will send list of images with 2 sizes: Original and preview.
+- Sizes of previews will be always same.
+- On frontend the images (1-4) will be displayed.
+- Published posts cannot be edited.
+
+### Buy / Sell via Coinbase
+
+- Completed. :unicorn:
+
+### Profile for Other Users
+
+- User can go to profile of other user only through URL in format `yen.io/username`
+- Displaying of page: `yen.io/username`
+
 
 ## Sprint 2 (April 26 - May 8, 2018)
 
@@ -137,7 +193,7 @@ For MVP: Registration only via email (in the future we may have google, fb, twit
 ### 3-Column Design
 
 - 3 colums where the 2nd column is dynamic with posts. All other columns will be empty.
-- LoFi [concept](https://www.dropbox.com/s/l3naboqz83hwimz/1-0-0_feed.png?dl=0)
+- LoFi [concept](https://www.dropbox.com/s/l3naboqz83hwimz/1-0-0_feed.png?dl=0).
 
 ### Coinbase oAuth Test
 
