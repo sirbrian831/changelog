@@ -71,8 +71,7 @@ Goals of Sprint 2 were as follows:
 
 ### User Profile
 
-Profile basic screen contains the following fields ( https://www.dropbox.com/s/j7pwdncjuwwaqt5/3-0-1-profile.png?dl=0
- ):
+Profile basic screen contains the [following fields](https://www.dropbox.com/s/j7pwdncjuwwaqt5/3-0-1-profile.png?dl=0):
 
 - Update photo (optional)  
 - Name (mandatory)
@@ -125,22 +124,22 @@ The goal of this first (!!!) sprint was to identify our core architecture and es
 
 ### Authorization & Registration
 
-Authorization/registration screen should look like: https://www.dropbox.com/s/5mgd40h0wc2picb/0-0-0_register.png?dl=0
+Authorization/registration screen should look like [this](https://www.dropbox.com/s/5mgd40h0wc2picb/0-0-0_register.png?dl=0):
 
 For MVP: Registration only via email (in the future we may have google, fb, twitter, bitcoin pub accounts)
 
 ### Create and Display Text
 
 - Only text posts and posts with URL will be accepted.
-- User can add new post: https://www.dropbox.com/s/9qtulwn9fznwl4w/2-post-two.png?dl=0
+- User can add new post ([screenshot](https://www.dropbox.com/s/9qtulwn9fznwl4w/2-post-two.png?dl=0))
 - Upload up to 4 images (via drag-drog or upload)
 
 ### 3-Column Design
 
 - 3 colums where the 2nd column is dynamic with posts. All other columns will be empty.
-- LoFi: https://www.dropbox.com/s/l3naboqz83hwimz/1-0-0_feed.png?dl=0
+- LoFi [concept](https://www.dropbox.com/s/l3naboqz83hwimz/1-0-0_feed.png?dl=0)
 
 ### Coinbase oAuth Test
 
 - US-Only: User needs to be able to connect to Coinbase via oAuth (YEN makes backend call to Coinbase API on behalf of user).I
-- Success: https://www.dropbox.com/s/zjcjwcx5jhwpa9s/success.png?dl=0
+- [Success](https://www.dropbox.com/s/zjcjwcx5jhwpa9s/success.png?dl=0)!
