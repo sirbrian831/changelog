@@ -19,20 +19,24 @@ Thank you!
 
 
 
-
-
-
-
-
-
-
-## Sprint 14
-
-Goals for Sprint 14 were as follows:
-
 ## Sprint 13
 
 Goals for Sprint 13 were as follows:
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sprint 12
 
