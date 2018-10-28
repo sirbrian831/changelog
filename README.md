@@ -23,11 +23,32 @@ Thank you!
 
 Goals for Sprint 13 were as follows:
 
-- 
+- Bug Fixes / Improvements via BETA Testers
+- Add ZRX (Buy / Sell)
+- Add 2FA Improvements
+- Server Optimizations
 
 
+### Add ZRX (Buy / Sell)
 
+- Add ZRX to Transaction
+- Add ZRX Icon to Widget
 
+### Add 2FA Improvements
+
+- Add 2FA Reminder Popup
+- Should show after email confirmation
+- If user selects "I'll Do This Later" we will remind them in 1 day
+- If user selects "I'll Do This Now" then send them to settings page
+
+###  Server Optimizations
+
+- Make, improve background jobs
+- Server stablity and performance upgrades
+
+### Bug Fixes / Improvements via BETA Testers
+
+- All the repeated tags within 1 post will be counted as 1
 
 
 
