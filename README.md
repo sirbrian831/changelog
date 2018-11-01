@@ -55,6 +55,9 @@ Goals for Sprint 13 were as follows:
 - [Text updates](https://beta.yen.io/yeneng/status/154109060747617) 
 - More [text updates](https://beta.yen.io/yeneng/status/154109061993617)
 - Increase size limit for uploading image files (5MB to 20MB)
+- FE:Status for transactions in the field
+- Tablet improvements: Fix scroll on iPad
+
 
 
 
