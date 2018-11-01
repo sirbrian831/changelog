@@ -49,7 +49,12 @@ Goals for Sprint 13 were as follows:
 ### Bug Fixes / Improvements via BETA Testers
 
 - All the repeated tags within 1 post will be counted as 1
-
+- Add icon ZRX to transaction
+- Update trending tags widget
+- Update transactions to handle new Coinbase responses
+- [Text updates](https://beta.yen.io/yeneng/status/154109060747617) 
+- More [text updates](https://beta.yen.io/yeneng/status/154109061993617)
+- Increase size limit for uploading image files (5MB to 20MB)
 
 
 
