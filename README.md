@@ -57,10 +57,45 @@ Goals for Sprint 13 were as follows:
 - Increase size limit for uploading image files (5MB to 20MB)
 - FE:Status for transactions in the field
 - Tablet improvements: Fix scroll on iPad
-
-
-
-
+- Search dropdown - arrows
+- Shortcuts: Close modal windows with the `ESC` key
+- Investigate 500 error due Coinbase verification
+- Image operations refactoring
+- Update typeahead API (If there are 2 hashtag options e.g. "btc" and "BTC" then typeahead API must return only latest option)
+- Tags and mentions: Make them register-independent (case sensitive #yeniverse #YENIVERSE, they should be the same tag)
+- Adding 2FA popup
+- Update txn posts to parse crypto currency name as a tag
+- Mentions and tags are not highlighted in repost comment
+- Non-case sensitive nicknames
+- Webpage is using significant memory (Mac)
+- Tablet improvements: Logo in 404 redirect to feed
+- Instant counter updating (not after page refresh)
+- Handle different url forms in the posts
+- Show counters in any case in any view (posts, tx, replay, fol)
+- Tool tip for counters/ button interactions with posts
+- Hardcode blacklist with nickname similar to core routes
+- Live server setup. Release activities and fixes.
+- SEO optimization - Parse manifest file for JS bundles to reuse frontend optimization
+- Impossible to mention youself
+- Like should be without delay
+- Auto-expand links to .gif images
+- The blocks with followers/followings aren't aligned by height in User Profile
+- Disable graph on the Search page if the search is not related to currency
+- 2FA:Connect timing of pop-up displaying and user id
+- Show user info in bar on profile image hover
+- Forbid access to adding phone for non-confirmed user
+- Incorrect post ID - hide toast, show valid error in modal window
+- 2FA: Popup is shown for guest user
+- Terms of services: text update
+- JS error in console on log out action
+- Previous page isn't displayed when user clicks on browser's Back button from 404 page
+- Incorrect redirect on profile image click from settings
+- Registration form is overlapped with footer when user types invalid password and clicks on Continue button
+- Smoother scroll for iOS
+- Fix and improve background jobs performance + server stability
+- Refresh feed by clicking on Global tab	
+- Align name and nickname for repost with comment
+- Update URL for TX History
 
 
 
