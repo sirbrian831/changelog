@@ -1,7 +1,7 @@
 # YEN Changelog
 Product updates, powered by our amazing community!
 
-The goal withour `changelog` is to capture all of the work that we've done to build YEN, starting from the very beginning. This way we have not only a record of our collective accomplishments so we can celebrate our progress but also to increase the level of transparency into the process as we build.
+The goal with our `changelog` is to capture all of the work that we've done to build YEN, starting from the very beginning. This way we have not only a record of our collective accomplishments so we can celebrate our progress but also to increase the level of transparency into the process as we build.
 
 In this way, our `changelog` is a bit different than more traditional ones because we're going to attempt to be a bit more specific with our notes (and definitely better than just a notice that reads: "*We constantly improve our application to provide better service to our users.*"...
 
