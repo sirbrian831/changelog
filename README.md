@@ -1,11 +1,11 @@
 # YEN Changelog
 Product updates, powered by our amazing community!
 
-The goal withour `changelog` is to capture all of the work that we've done to build YEN, starting from the very beginning. This way we have not only a record of our collective accomplishments so we can celebrate our progress but also to increase the level of transparency into the process as we build.
+The goal with our `changelog` is to capture all of the work that we've done to build YEN, starting from the very beginning. This way we have not only a record of our collective accomplishments so we can celebrate our progress but also to increase the level of transparency into the process as we build.
 
 In this way, our `changelog` is a bit different than more traditional ones because we're going to attempt to be a bit more specific with our notes (and definitely better than just a notice that reads: "*We constantly improve our application to provide better service to our users.*"...
 
-We hope that you'll see many of the changes, improvements, bug fixes, and feature updates that you'll see are the **very ones** that **YOU** suggested! We love co-building with our community as it's just a better way of building.
+We hope that you'll see many of the changes, improvements, bug fixes, and feature updates that you'll see are the **very ones** that **YOU** suggested! We love [co-building with our community](https://github.com/yenio/changelog/wiki/3.-Our-CoBuilders) as it's just a better way of building.
 
 Thank you!
 
@@ -14,30 +14,77 @@ Thank you!
 
 
 
-## Sprint 14
+## Sprint 15 (November 9 - 23, 2018)
+
+Goals for Sprint 15 were as follows:
+
+- Finalizing Messages
+- Finalizing Admin (Posts, Users, Abuse)
+- Buy/Sell Redesign (Will start and finish in Sprint 16)
+- Post / Repost Grouping (Will start and finish in Sprint 16)
+
+More details to follow...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Sprint 14 (October 25 - November 8, 2018)
 
 Goals for Sprint 14 were as follows:
 
-- 
-- 
-- 
--
-
-### 
-
-### 
-
-### 
-
-### 
+- Build the backend for Messages (Will start and finish in Sprint 15)
+- Admin Panel (Will start and finish in Sprint 15)
 
 
+### Messages
+
+- Core functionality built-out (1-to-1 Direct Messages)
+- Includes real-time notifications, awareness indicators, post/delete
+
+### Admin Panel
+
+- Add / Manage admins and moderators
+- Blacklists for usernames
+- Registration Codes (Individual and Groups with timeouts)
+
+### Bug Fixes / Improvements via BETA Testers
+
+- Impossible to repost a post
+- Distinguish the posts which are under processing
+- Placeholders for post with processing images
+- Update the text in the field for different sorting
+- Fix issue with 'Question Marks' in post (`?`)
+- Impossible to add long link to the post
 
 
 
 
 
-## Sprint 13
+
+
+
+
+
+
+
+
+
+
+
+
+## Sprint 13 (October 11 - 25, 2018)
 
 Goals for Sprint 13 were as follows:
 
@@ -120,7 +167,7 @@ Goals for Sprint 13 were as follows:
 
 
 
-## Sprint 12
+## Sprint 12  (October 8 - 11, 2018)
 
 Goals for Sprint 12 were as follows:
 
@@ -172,7 +219,7 @@ Goals for Sprint 12 were as follows:
 
 
 
-## Sprint 11
+## Sprint 11 (September 17 - October 5, 2018)
 
 Goals for Sprint 11 were as follows:
 
