@@ -903,4 +903,6 @@ For MVP: Registration only via email (in the future we may have google, fb, twit
 ### Coinbase oAuth Test
 
 - US-Only: User needs to be able to connect to Coinbase via oAuth (YEN makes backend call to Coinbase API on behalf of user).I
-- [Success](https://www.dropbox.com/s/zjcjwcx5jhwpa9s/success.png?dl=0)!
+- [Success](https://www.dropbox.com/s/zjcjwcx5jhwpa9s/success.png?dl=0)!  
+
+<3
