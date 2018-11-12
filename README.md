@@ -14,6 +14,10 @@ Thank you!
 
 
 
+
+
+
+
 ## Sprint 15 (November 9 - 23, 2018)
 
 Goals for Sprint 15 were as follows:
@@ -211,6 +215,13 @@ Goals for Sprint 12 were as follows:
 - Images in email are not showing
 - Align pop-up messages to center, reduce size
 - Double-check email confirmations
+
+
+
+
+
+
+
 
 
 
@@ -856,6 +867,11 @@ Validation for fields:
 ### Messaging Prototype
 
 - Complete a concept / prototype for internal messaging using off-the-shelf APIs (e.g. PubNub)
+
+
+
+
+
 
 
 
