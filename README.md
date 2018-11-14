@@ -11,10 +11,35 @@ Thank you!
 
 
 
+## What is Your Software Development Lifecycle?
 
+Okay, so, that's a mouthful, for sure! But, from here on out you might start learning a thing or two about the process of designing and developing great software! The `SLDC` (or also called the "Software Development Process") can look different based on the team and organization.
 
+But what it is, essentially, is a framework of how ideas and concepts eventually become real software; it defines the tasks needed and the steps required to create working software. This often means developing a plan on how to develop, maintain, replace (or fix) the software. The **goal** is to not only produce something of value but also to help make the process, itself, better over time!
 
+Our team specifically follows a plan that is broken down into 2 Week "Sprints" where we define the tasks we want to accomplish over those two weeks and also blocks out time to review the process itself.
 
+Here's what this looks day-to-day:
+
+### Week 1 (of 2)
+- Mon: Day #3 of Sprint Cycle ("SC")
+- Tue: Day #4 of SC
+- Wed: Day #5 of SC
+- Thurs: Day #6 of SC
+- Fri: Day #7 of SC
+
+### Week 2 (of 2)
+- Mon: Day #8 of SC // Sprint Planning (Plan goals for next sprint, assign tasks)
+- Tue: Day #9 of SC // Business Requirements (Decide technical solutions matching business logic with engineering requirements) // Code Freeze – "`Cinderella Deploy`" (changes allowed up until midnight PST)
+- Wed: Day #10 of SC // Deploy to Development / Staging Branches
+- Thurs: Day #1 of New SC // Master Deploy from Staging to Live // Sprint Retrospective // Goals for Next Sprint
+- Fri: Day #2 of New SC
+
+You'll notice that we start a new Sprint Cycle on the 2nd Thursday of the 2nd week. 
+
+We plan on adding more context and material around our technical workflows over time but we hope you have learned a thing (or two) and find this type of thing not only interesting but perhaps even useful for your own projects (and those projects don't have to necessarily technical in nature)!
+
+***
 
 
 
