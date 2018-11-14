@@ -22,18 +22,18 @@ Our team specifically follows a plan that is broken down into 2 Week "Sprints" w
 Here's what this looks day-to-day:
 
 ### Week 1 (of 2)
-- Mon: Day #3 of Sprint Cycle ("SC")
-- Tue: Day #4 of SC
-- Wed: Day #5 of SC
-- Thurs: Day #6 of SC
-- Fri: Day #7 of SC
+- **Mon:** Day #3 of Sprint Cycle ("SC")
+- **Tue:** Day #4 of SC
+- **Wed:** Day #5 of SC
+- **Thurs:** Day #6 of SC
+- **Fri:** Day #7 of SC
 
 ### Week 2 (of 2)
-- Mon: Day #8 of SC // Sprint Planning (Plan goals for next sprint, assign tasks)
-- Tue: Day #9 of SC // Business Requirements (Decide technical solutions matching business logic with engineering requirements) // Code Freeze – "`Cinderella Deploy`" (changes allowed up until midnight PST)
-- Wed: Day #10 of SC // Deploy to Development / Staging Branches
-- Thurs: Day #1 of New SC // Master Deploy from Staging to Live // Sprint Retrospective // Goals for Next Sprint
-- Fri: Day #2 of New SC
+- **Mon:** Day #8 of SC // Sprint Planning (Plan goals for next sprint, assign tasks)
+- **Tue:** Day #9 of SC // Business Requirements (Decide technical solutions matching business logic with engineering requirements) // Code Freeze – "`Cinderella Deploy`" (changes allowed up until midnight PST)
+- **Wed:** Day #10 of SC // Deploy to Development / Staging Branches
+- **Thurs:** Day #1 of New SC // Master Deploy from Staging to Live // Sprint Retrospective // Goals for Next Sprint
+- **Fri:** Day #2 of New SC
 
 You'll notice that we start a new Sprint Cycle on the 2nd Thursday of the 2nd week. 
 
