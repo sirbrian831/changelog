@@ -39,6 +39,9 @@ You'll notice that we start a new Sprint Cycle on the 2nd Thursday of the 2nd we
 
 We plan on adding more context and material around our technical workflows over time but we hope you have learned a thing (or two) and find this type of thing not only interesting but perhaps even useful for your own projects (and those projects don't have to necessarily technical in nature)!
 
+Without further ado... here's what our Sprints have looked like historically and the larger tasks that we attempted to work through!
+
+
 ***
 
 
