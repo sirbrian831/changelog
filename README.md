@@ -45,6 +45,34 @@ Without further ado... here's what our Sprints have looked like historically and
 ***
 
 
+## Sprint 16 (November 24 - December 7)
+
+Goals for Sprint 16 were as follows:
+
+- Finalizing Buy/Sell with Scalable Interface
+- New Tokens Widget with Rates (Settings via User)
+- Admin Panel Additions for New Coins
+- Global Announcement Notification & Admin Management
+- Binance Proof-of-Concept
+
+More to come...
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Sprint 15 (November 9 - 23, 2018)
 
@@ -53,17 +81,23 @@ Goals for Sprint 15 were as follows:
 - Finalizing Messages
 - Finalizing Admin (Posts, Users, Abuse)
 - Buy/Sell Redesign (Will start and finish in Sprint 16)
-- Post / Repost Grouping (Will start and finish in Sprint 16)
-- `Yokens`... ... ... :unicorn: ...?
-
-More details to follow...
 
 
+### Messages
 
-
+- Ground-up Build using Node.js, MongoDB, Mongoose, Express, `Socket.io`, Docker, Ruby, etc., etc., etc....
+- Build API for updating user, getting user info from backend, create users table
 
 
 
+
+
+
+
+
+
+
+### Bug Fixes / Improvements via BETA Testers
 
 
 
