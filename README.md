@@ -82,22 +82,48 @@ Goals for Sprint 15 were as follows:
 - Finalizing Admin (Posts, Users, Abuse)
 - Buy/Sell Redesign (Will start and finish in Sprint 16)
 
-
 ### Messages
 
 - Ground-up Build using Node.js, MongoDB, Mongoose, Express, `Socket.io`, Docker, Ruby, etc., etc., etc....
 - Build API for updating user, getting user info from backend, create users table
 
+### Admin Panel
 
-
-
-
-
-
-
-
+- Invitations page for admin
+- Invitation Codes for Private Beta
+- Blacklist
+- Delete, Moderate messages
+- Abuse management
 
 ### Bug Fixes / Improvements via BETA Testers
+
+- Remove Intercom because it sucks
+- Build Custom Metrics Views via AppSignal 
+- Invalid currency format error on tx replay
+- BAT hardcode (buy / sell)
+- BAT hardcore (widget)
+- Add USD Coin (buy / sell)
+- Add USD Coin (widget)
+- Prevent logging in / out while accessing `/login`
+- Incorrect display of pictures in post
+- Reduce size of notification
+- Feed is refreshed when user opens any post and then closes it (for all filters except All tab)
+- Post are not displayed for Global/MyFeed - All filter
+- Author's profile isn't opened when user clicks on author's avatar/username from post's popup
+- Comprehensive `db` backup in live via DO
+- Use ruby-jemalloc docker image to reduce memory usage
+- Add loader to image upload / post (`https://vue-content-loader.egoist.moe/`)
+- Make hashtag in `TX` clickable
+- Transactions are not displayed in Global =>Transactions filter
+- Configure `DevOps` Channel in Slack
+- YEN logos are not displayed in emails
+
+
+
+
+
+
+
 
 
 
