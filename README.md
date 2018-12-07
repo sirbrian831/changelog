@@ -47,8 +47,9 @@ Without further ado... here's what our Sprints have looked like historically and
 ## Sprint 17 (December 8 - 21, 2018)
 
 
-TBD...
+Goals for Sprint 17 were as follows:
 
+... continuation of Sprint 16... more to come!
 
 
 
@@ -64,7 +65,7 @@ TBD...
 
 Goals for Sprint 16 were as follows:
 
-- Finalizing Buy/Sell with Scalable Interface
+- Finalizing New Buy/Sell with Scalable Interface
 - New Tokens Widget with Rates (Settings via User) with Coincap 
 - Admin Panel Additions for New Coins (Coincap)
 - Global Announcement Notification & Admin Management
@@ -79,11 +80,69 @@ What we were able to do is knock out a ton of bugs, spend time optimizing the ov
 
 
 
+### Admin Panel
 
+- Special post type for announcements concepted, starting to build this and next sprint. Announcements will include `title` and `text` but nothing more, at least for now. Should be slightly different color and should be able to be closed by the user.
+- Build out live deploy activities, work on docs and droplets
+- Update admin / user features
+- Shared functionality, search, and filtering
+- Optimize abuses, blocked users, pages for deleted users
+- New invitation codes for users by group or by individual
+- Update blacklist
+- Second page with search results is displayed when admin switches page and makes filtration on Users tab
+- Add dropdown to Type column
+- Update admin API, get UUID, add to JWT
+- 500 error thrown on performing search via ID using non-numeric symbols
+- Create Alerts for the different actions in admin
+- Sometimes 500 error is received for login/adding invitations/search page
+- Abuses: option to post, modal window
+- Post isn't deleted when admin clicks on Delete icon in Posts tab
+- Add 2 reasons to the filter on Abuses page
+- Start_at and End_at with null are send in request when admin changes date in the row
+- Handle error messages for admin panel
+- URL doesn't fit in the column in Posts tab when user adds post with long URL
+- Column's width isn't specified in styles - content is stretched vertically on Abuses page
+- First list isn't displayed when admin makes search, switches the list and clears results
+- Disable icons for deleted post in Posts tab
+- Set max width for First, Last Name and Nickname columns on Posts page
+- Change icon fo block/unblock users
+- Add favicon to admin panel
+- 422 error is received for api / posts / abuse when user chooses only reason in Report post popup
+- Corresponding results aren't displayed when admin filters users by status/Unblock at
+- Header's height is stretched when announcements are appeared
+- Previous searching state is updated on Blacklist page when admin switches on another tab and return back
+- Make chosen date highlighted in date picker
 
+## Bug Fixes / Improvements
 
-
-
+- Counter updating - 2 numbers by slash for Replays and Followers
+- Moving buttons Edit profile and Settings
+- Make tab text more obvious and shift to left
+- Blocked user - profile view, a strip on the top with text: "Your account is currently `Deactivated`. Please contact support@yen.io if you have any questions."
+- Page for deleted user
+- Icon for new cryptocurrency BAT
+- Widget trending topics: remove post counter under tags
+- New 404 Page
+- Distinguish the posts which are under processing
+- Create icon for USD coin
+- Tool tip for counters / button interactions with posts
+- Incorrect displaying of date on profile screen
+- Nicknames with "-" aren't clickable
+- User mention in post is not redirects to his profile
+- Disable email field in Settings for blocked user
+- Login screen: notify user if cap locks is on while typing password
+- Show what user's previous usernames were
+- Add comment to transaction
+- Rename "Broadcasts" to "Livestreams"
+- Quick follow in popover
+- Limit the characters in username
+- Deleted user's avatar is displayed in Messages popup
+- Display text about successful purchase above in popup
+- Make user's avatar clickable on Messages and New Message popups
+- Change text in New Message popup when user is not found
+- Reduce height of exchange tabs and selects
+- Change text on the strip and in popup for blocked user
+- Fix a few login / logout issues
 
 
 
