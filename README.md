@@ -71,9 +71,9 @@ Goals for Sprint 16 were as follows:
 - Binance Proof-of-Concept
 - Bug Fixes and Improvements
 
-We began Sprint 16 with some very, *very* large goals (e.g. tasks) in mind and we were unable to complete most of them in a single sprint cycle. This was expected so we'll continue to work on these items into `Sprint 17` above.
+We began Sprint 16 with some very, *very* large goals (e.g. tasks) in mind and we were unable to complete most of them in a single sprint cycle. This was expected so we'll continue to work on these items into `Sprint 17` [above](https://github.com/yenio/changelog#sprint-17-december-8---21-2018).
 
-
+What we were able to do is knock out a ton of bugs, spend time optimizing the overall system, and making significant improvements app-wide.
 
 
 
