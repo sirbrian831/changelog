@@ -44,20 +44,34 @@ Without further ado... here's what our Sprints have looked like historically and
 
 ***
 
+## Sprint 17 (December 8 - 21, 2018)
 
-## Sprint 16 (November 24 - December 7)
+
+TBD...
+
+
+
+
+
+
+
+
+
+
+
+
+## Sprint 16 (November 24 - December 7, 2018)
 
 Goals for Sprint 16 were as follows:
 
 - Finalizing Buy/Sell with Scalable Interface
-- New Tokens Widget with Rates (Settings via User)
-- Admin Panel Additions for New Coins
+- New Tokens Widget with Rates (Settings via User) with Coincap 
+- Admin Panel Additions for New Coins (Coincap)
 - Global Announcement Notification & Admin Management
 - Binance Proof-of-Concept
+- Bug Fixes and Improvements
 
-More to come...
-
-
+We began Sprint 16 with some very, *very* large goals (e.g. tasks) in mind and we were unable to complete most of them in a single sprint cycle. This was expected so we'll continue to work on these items into `Sprint 17` above.
 
 
 
