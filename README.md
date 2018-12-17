@@ -44,13 +44,35 @@ Without further ado... here's what our Sprints have looked like historically and
 
 ***
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Sprint 17 (December 8 - 21, 2018)
 
 
 Goals for Sprint 17 were as follows:
 
-... continuation of Sprint 16... more to come!
+- Continue working on Binance and Coincap integration
+- Update Coinbase for new transaction workflow
+- Admin Views for new Integrations
+- API refinement for sending / receiving fiat exchange rate(s)
 
+... more to come!
 
 
 
