@@ -56,6 +56,9 @@ Without further ado... here's what our Sprints have looked like historically and
 
 ## Sprint 18 (Dec 21 - Jan 11, 2018)
 
+This Sprint is specifically 3-weeks long instead of the typical 2, given the holidays!
+
+
 Goals for Sprint 18 are as follows:
 
 - Continue working on Binance and Coincap integration
