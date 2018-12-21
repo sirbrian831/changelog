@@ -54,6 +54,19 @@ Without further ado... here's what our Sprints have looked like historically and
 
 
 
+## Sprint 18 (Dec 21 - Jan 11, 2018)
+
+Goals for Sprint 18 are as follows:
+
+- Continue working on Binance and Coincap integration
+- Update Coinbase for new transaction workflow
+- Admin Views for new Integrations
+- API refinement for sending / receiving fiat exchange rate(s) 
+
+... and more to be detailed soon!
+
+
+
 
 
 
@@ -72,7 +85,67 @@ Goals for Sprint 17 were as follows:
 - Admin Views for new Integrations
 - API refinement for sending / receiving fiat exchange rate(s)
 
-... more to come!
+Sprint 17 (and 18 and 19 most likely) are still heavily focused on getting our new integrations out and launched and so the next 2-3 sprint cycles will focus almost exclusively on those core elements.
+
+This means that much of Sprint 17/18/19 will be a continuation of Sprint 16 in scope.
+
+### Admin Views
+
+- A new Announcement feature was built allowing us to communicate globally with our community
+- Ability to create a new announcement with details (text, for now) with expiration dates
+- Adding text editor for content creation
+- Updating abuses
+- Updating pagination on views
+- Fixed 500 errors and error handling
+- Adding internal search schema
+- Results aren't displayed in the list when admin switches pages and uses Search
+- Admin actions for posts, users updated
+- Fix date picker
+- Icon isn't uploaded for PACcoin currency when admin filters by symbol
+- Change icon for Admin Actions tab
+- NaN is displayed in row's range when admin clicks on Post link in Admin Actions tab
+- New icon isn't uploaded on the page if previous icon was already uploaded in modal window
+- Tags/mentions in the posts are displayed as HTML on the Posts page
+
+### Binance and Coincap
+
+- Working on updates and sync process for coin and token pairs
+- Finalizing authentication to Binance
+- Updating Coincap charting for backend and frontend
+- Add cursor pointer to exchange tabs
+
+
+
+### Updating Coinbase Workflow
+
+- Fiat amount isn't displayed in Confirmation popup when user makes buy tx
+- Buy tab isn't displayed when user makes buy tx and clicks on Start another buy
+- Make selects for Buy/Sell tabs predefined on Coinbase tab
+
+
+### API Refinement, Bug Fixes
+
+- Refining chat sync for deactivated / deleted users
+- Updating pagination
+- Updating security protocol(s) for 2-factor
+- User profiles should be clickable in messages
+- Max URL length set (3,800 chars)
+- Error handling improved, 500 / 422 errors on buy/sell
+- Markup of buy/sell workflow update
+- Remove restriction to change character in registration in nickname for user
+- Incorrect parsing of mentions in posts
+- More Blacklist entries updated into database
+- Change date format in Created at column
+- Metabase analytics built
+- Unify send validations for blocked/deleted/non-confirmed users
+- Request is sent and 422 error is received when user fills amount field and then deletes it
+- Deleted user's avatar is displayed in Messages popup
+- Post with livestream link does not appeared in Livestream tab
+- `Follow:false` is received if user was following another user and was deleted
+
+
+
+
 
 
 
