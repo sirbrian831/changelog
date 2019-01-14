@@ -66,8 +66,37 @@ Goals for Sprint 18 are as follows:
 - Admin Views for new Integrations
 - API refinement for sending / receiving fiat exchange rate(s) 
 
-... and more to be detailed soon!
+### Admin Panel
 
+- Update CoinCap currencies
+- Update Coinbase currencies
+- Update Binance currencies
+- Multiple bux fixes and other improvements
+- Custom messages
+
+### Binance
+
+- Test creation of order via API
+- Finalize Buy / Sell orders
+- Finalize transactions and posts in YEN
+- Refactor tx tables handled by Binance
+- Improve communiation with Binance WebSockets Listener (handle rate limit, timeout, crashes, and more)
+- Connect to admin panel
+
+### Coinbase
+
+- Refactor separate ops (separate API for Coinbase)
+- Sync user balances and token values
+- Get latest prices requests updated
+- Filter on wallet types
+- Connect to admin panel
+
+### Updates and Bug Fixes
+
+- Currency widget setup in user settings
+- Get Fiat Exchange data and rates API
+- Build out history of currencies via CoinCap
+- Implement new listeners
 
 
 
