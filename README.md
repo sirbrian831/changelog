@@ -50,7 +50,23 @@ Without further ado... here's what our Sprints have looked like historically and
 
 ## Sprint 19 (Jan 14 - 25, 2018)
 
-This Sprint is back to our normal 2-week cycle. More details to come.
+Goals for this sprint are as follows:
+
+- Adjust Frontend to all API updates from Backend
+- Close out a ton of `high` and `medium` priority issues
+- Group chat
+- Mobile design markup and development
+- Finalize integration with Binance
+
+
+### Binance
+
+- Pull / push data via Binance modal
+- TX / Posts: Create posts with Binance TXs
+- Backend: Improve WebSockets Listener (handle rates, timeouts, crashes, etc)
+- Buy / Sell: Refactoring to separate Coinbase operations (a new API via Coinbase)
+- Sync user coin and token balances
+- Handle webhook notifications (payment methods, accounts, and cacheing)
 
 
 
