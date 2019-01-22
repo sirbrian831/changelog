@@ -48,7 +48,7 @@ Without further ado... here's what our Sprints have looked like historically and
 
 
 
-## Sprint 19 (Jan 14 - 25, 2018)
+## Sprint 19 (Jan 14 - 25, 2019)
 
 Goals for this sprint are as follows:
 
@@ -70,7 +70,7 @@ Goals for this sprint are as follows:
 
 
 
-## Sprint 18 (Dec 21 - Jan 11, 2018)
+## Sprint 18 (Dec 21 - Jan 11, 2019)
 
 This Sprint is specifically 3-weeks long instead of the typical 2, given the holidays!
 
